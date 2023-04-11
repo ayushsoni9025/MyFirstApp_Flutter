@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "329723195169",
+    "project_id": "ayush-flutter-learning",
+    "storage_bucket": "ayush-flutter-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329723195169:android:b6469678542b104ba85860",
+        "android_client_info": {
+          "package_name": "com.ayushsoni9025.my_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329723195169-goaehgp5uv10hdio2sh04rs4djcsqkvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcox-tI8pLMUagLtMBmy2_Vzjzb0VmyTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329723195169-goaehgp5uv10hdio2sh04rs4djcsqkvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329723195169-7f6r1ua9vlttggb53hlrm2rtu5gr80ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayushsoni9025.myFirstApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329723195169:android:c16670b6f20da240a85860",
+        "android_client_info": {
+          "package_name": "com.ayushsoni9025.myapp.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329723195169-goaehgp5uv10hdio2sh04rs4djcsqkvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcox-tI8pLMUagLtMBmy2_Vzjzb0VmyTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329723195169-goaehgp5uv10hdio2sh04rs4djcsqkvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "329723195169-7f6r1ua9vlttggb53hlrm2rtu5gr80ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayushsoni9025.myFirstApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
